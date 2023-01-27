@@ -1,0 +1,30 @@
+/* 
+
+The one style sheet for Quotations 1
+
+Authors: Rick Mercer and Quan Nguyen
+
+*/
+.container {
+	vertical-align: text-top;
+	border: 1px black solid;
+	box-shadow: 2px 2px 2px gray;
+	border-radius: 7px;
+	padding: 5px;
+	margin: 5px;
+	font-size: 10pt;
+}
+.container2 {
+	vertical-align: text-top;
+	border: 1px black solid;
+	box-shadow: 2px 2px 2px gray;
+	border-radius: 7px;
+	padding: 5px;
+	margin: 5px;
+	font-size: 10pt;
+	width: 50%;
+}
+
+form {
+	margin-left: 10px;
+}
